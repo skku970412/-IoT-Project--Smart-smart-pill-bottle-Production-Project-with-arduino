@@ -22,8 +22,8 @@ Elderly people often have trouble remembering which medication to take on which 
 ## Development Team
 | Name | Role |
 | --- | --- |
-| Jaewook Lee | Optimize communication between boards |  SungKyunKwan University
-| Jinhee Kim | Optimize communication between boards |  SungKyunKwan University
-| Seungyeop Lee | Send operating signals from ultrasonic sensor to servo motor, optimize communication |  SungKyunKwan University
-| Taeho Lee | Develop application for medication information input, time, and day |  SungKyunKwan University
-| Yeonkyung Jang | Load time RSS information from database |  SungKyunKwan University
+| Jaewook Lee | Optimize communication between boards |  SungKyunKwan University  |
+| Jinhee Kim | Optimize communication between boards |  SungKyunKwan University  |
+| Seungyeop Lee | Send operating signals from ultrasonic sensor to servo motor, optimize communication |  SungKyunKwan University  |
+| Taeho Lee | Develop application for medication information input, time, and day |  SungKyunKwan University  |
+| Yeonkyung Jang | Load time RSS information from database |  SungKyunKwan University  |
