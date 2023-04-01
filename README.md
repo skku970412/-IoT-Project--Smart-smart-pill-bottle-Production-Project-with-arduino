@@ -1,8 +1,6 @@
 # Smart Pillbox
 
-이 프로젝트는 18시간동안 만든 것입니다.
-솔직히 계과 종설보다 잘 만든듯
-종설 뭐했노
+
 
 ## Introduction
 Elderly people often have trouble remembering which medication to take on which day and at which time. To solve this problem, we have developed a smart pillbox that can be operated through a mobile application. By entering the medication information (the day and time at which the medication should be taken) in the application, the pillbox will open automatically at the appropriate time. When the user takes the medication, the pillbox will close again. 
