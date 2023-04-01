@@ -15,7 +15,7 @@ The development goals for the Smart Pillbox are:
 - ① Application
   1. Enter medication information by day of the week.
   2. Add Reset and Save buttons for easier information entry.
-  3. Convert the information on whether the user took the medication for three types of medication (3-bit binary information) to decimal format and store it in Firebase for more efficient data organization.
+  3. Convert the information on whether the user took the medication for three types of medication (3-bit binary information) to decimal format and store it in Firebase. 
 
 - ② Pillbox Opening/Closing
   1. When it is time according to the medication information, the pillbox will open.
@@ -53,7 +53,7 @@ Smart Pillbox의 개발 목표는 다음과 같습니다.
 
 1. 요일별 약 정보를 입력합니다.
 2. 리셋 및 저장 버튼을 추가하여 정보 입력을 더 쉽게 합니다.
-3. 사용자가 세 종류의 약(3비트 이진 정보)을 복용했는지 여부를 십진수 형식으로 변환하여 Firebase에 저장하여 데이터 구성을 더 효율적으로 합니다.
+3. 사용자가 세 종류의 약(3비트 이진 정보)을 복용했는지 여부를 십진수 형식으로 변환하여 Firebase에 데이터 를 저장합니다.
 
 ### 필박스 개폐
 
