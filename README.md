@@ -21,12 +21,12 @@ The development goals for the Smart Pillbox are:
   1. When it is time according to the medication information, the pillbox will open.
   2. When the user takes the medication, the pillbox will close by detecting it using an ultrasonic sensor.
     - The pillbox will be designed to close after 5 seconds of the user taking the medication.
-
 ## Development Team
+
 | Name | Role | Univ | Dept |
-| --- | --- | --- | --- |
-| Jaewook Lee | Optimize communication between boards |  SungKyunKwan University |
-| Jinhee Kim | Optimize communication between boards |  SungKyunKwan University |
-| Seungyeop Lee | Send operating signals from ultrasonic sensor to servo motor, optimize communication |  SungKyunKwan University |
-| Taeho Lee | Develop application for medication information input, time, and day |  SungKyunKwan University |
-| Yeonkyung Jang | Load time RSS information from database |  SungKyunKwan University |
+|------|------|------|------|
+| Jaewook Lee | Optimize communication between boards | SungKyunKwan University | Department of Electrical and Electronic Engineering |
+| Jinhee Kim | Optimize communication between boards | SungKyunKwan University | Department of Electrical and Electronic Engineering |
+| Seungyeop Lee | Send operating signals from ultrasonic sensor to servo motor, optimize communication | SungKyunKwan University | Department of Mechanical Engineering |
+| Taeho Lee | Develop application for medication information input, time, and day | SungKyunKwan University | Department of Computer Science |
+| Yeonkyung Jang | Load time RSS information from database | SungKyunKwan University | Department of Electrical and Electronic Engineering |
