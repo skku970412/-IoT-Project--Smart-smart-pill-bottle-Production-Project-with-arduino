@@ -4,9 +4,12 @@
 Elderly people often have trouble remembering which medication to take on which day and at which time. To solve this problem, we have developed a smart pillbox that can be operated through a mobile application. By entering the medication information (the day and time at which the medication should be taken) in the application, the pillbox will open automatically at the appropriate time. When the user takes the medication, the pillbox will close again. 
 
 ## Development Goals
-- Describe the motivation behind the project and its specific functions.
-- Identify current similar products and technologies, highlighting the proposed product's differentiation points.
-- Provide a detailed explanation of the implemented functions.
+The development goals for the Smart Pillbox are:
+
+  1. To provide elderly people with a reliable way to remember when to take their medication
+  2. To simplify the process of taking medication by automatically dispensing pills at the right time
+  3. To provide an easy-to-use mobile application for inputting medication information and adjusting settings
+  4. To help promote better health outcomes by ensuring that medication is taken consistently and as prescribed.
 
 ## Detailed Explanation of Functions
 - ① Application
