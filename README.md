@@ -27,7 +27,7 @@ The development goals for the Smart Pillbox are:
 
 | Name | Role | Univ | Dept |
 |------|------|------|------|
-| Jaewook Lee | Optimize communication between boards | SungKyunKwan University | School of Electrical and Electronic Engineering |
+| Jaewook Lee | Optimize communication between boards | SungKyunKwan University | School of Mechanical Engineering |
 | Jinhee Kim | Optimize communication between boards | SungKyunKwan University | School of Electrical and Electronic Engineering |
 | Seungyeop Lee | Send operating signals from ultrasonic sensor to servo motor, optimize communication | SungKyunKwan University | School of Mechanical Engineering |
 | Taeho Lee | Develop application for medication information input, time, and day | SungKyunKwan University | School of Electrical and Electronic Engineering |
